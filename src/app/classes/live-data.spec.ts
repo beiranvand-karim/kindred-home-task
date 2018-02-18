@@ -1,0 +1,2 @@
+export class LiveData.Spec {
+}
